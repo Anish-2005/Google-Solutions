@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pyrebase4
+Pyrebase4==4.8.0
 firebase-admin
 requests
 python-dotenv
