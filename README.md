@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Financer Logo](financer/public/financer.png)
+<img src="financer/public/financer.png" alt="Financer Logo" width="120" height="120">
 
 [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg)](https://fastapi.tiangolo.com/)
